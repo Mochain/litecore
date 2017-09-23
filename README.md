@@ -1,4 +1,4 @@
-Litecore
+egoldcore
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/litecore.svg?style=flat-square)](https://www.npmjs.org/package/litecore)
